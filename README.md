@@ -1,2 +1,2 @@
 # Pakiman
-Reposotory of pakiman code
+Proximamente la pokedex que podras programar!
